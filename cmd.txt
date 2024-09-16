@@ -1,1 +1,1 @@
-Video,web,updatafiles,shutdown,resetup,import,mkdir,mkfile,help,music,updatasys
+Video,web,updatafiles,shutdown,resetup,import,mkdir,mkfile,help,music,updatasys,openfile
